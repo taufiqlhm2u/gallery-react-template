@@ -4,7 +4,9 @@ A modern photography gallery web application featuring an interactive 3D image c
 
 ## 📸 Preview
 
-<video src="preview.mp4" controls></video>
+<video width="320" height="240" controls>
+  <source src="preview.mp4" type="video/mp4">
+</video>
 
 ## ✨ Features
 
