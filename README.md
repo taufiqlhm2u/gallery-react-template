@@ -4,7 +4,11 @@ A modern photography gallery web application featuring an interactive 3D image c
 
 ## 📸 Preview
 
-📹 [Klik untuk melihat preview video](/preview.mp4)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="/previews/preview1.jpg" alt="Preview 1" style="width: 30%; min-width: 200px;"/>
+  <img src="/previews/preview2.jpg" alt="Preview 2" style="width: 30%; min-width: 200px;"/>
+  <img src="/previews/preview3.jpg" alt="Preview 3" style="width: 30%; min-width: 200px;"/>
+</div>
 
 ## ✨ Features
 
