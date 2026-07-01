@@ -131,19 +131,6 @@ The application implements several performance optimizations:
 - **Optimized Dependencies**: Vite's code splitting and tree-shaking reduce bundle size
 - **Image Preloading**: Lightbox preloads adjacent images for faster navigation
 
-## 🔮 Future Improvements
-
-- Add search functionality to filter images by title
-- Implement category/tag filtering system
-- Add image upload capability for dynamic galleries
-- Integrate with backend API for persistent storage
-- Implement PWA support for offline access
-- Add animation preferences for users with motion sensitivity
-- Improve accessibility with better ARIA labels and screen reader support
-- Add social sharing capabilities
-- Implement image download with watermark option
-- Add admin panel for gallery management
-
 ## 🙏 Credits
 
 Built with:
